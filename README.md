@@ -5,7 +5,7 @@ The frontend of this project was built using Reactjs, Semantic UI
 
 To communicate between Client and Server I used GraphQL. Which is more efficient then RESTapi.
 
-The backend of this project was built using Apollo server which usage Express usage underlying. MongoDB(Atlas) as database. 
+The backend of this project was built using Apollo server which usage Express underlying. MongoDB(Atlas) as database. 
 
 Deployed Project link :- https://qmranik-social-media-app.netlify.app/
 
